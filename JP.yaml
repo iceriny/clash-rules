@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN-KEYWORD,dlsite
+  - DOMAIN-KEYWORD,ci-en.jp
+  - DOMAIN-SUFFIX,img.dlsite.jp
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,pixiv.org
+  - DOMAIN-SUFFIX,pximg.net
+  - DOMAIN-SUFFIX,boylove.cc
+  - DOMAIN-SUFFIX,missav.ai
+  - DOMAIN-SUFFIX,surrit.com
+  - DOMAIN-SUFFIX,twitter.jp

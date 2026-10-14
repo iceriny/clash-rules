@@ -1,0 +1,13 @@
+{
+  "name": "public-clash-rules",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/build.mjs --check",
+    "build": "node scripts/build.mjs",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "dependencies": { "yaml": "^2.8.1" },
+  "devDependencies": { "wrangler": "^4.0.0" },
+  "engines": { "node": ">=22" }
+}
