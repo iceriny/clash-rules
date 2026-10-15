@@ -24,4 +24,6 @@ payload:
   - DOMAIN,steamvideo-a.akamaihd.net
   - DOMAIN,steammobile.akamaized.net
   - DOMAIN,steambroadcast.akamaized.net
+  - DOMAIN,store.steampowered.com
   - DOMAIN,help.steampowered.com
+  - DOMAIN,api.steampowered.com

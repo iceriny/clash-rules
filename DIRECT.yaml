@@ -96,9 +96,7 @@ payload:
   - DOMAIN,libcyber.xyz
   - DOMAIN,lcmirror.com
   - DOMAIN,ptgpay.cn
-  - DOMAIN,store.steampowered.com
   - DOMAIN,checkout.steampowered.com
-  - DOMAIN,api.steampowered.com
   - DOMAIN,content1.steampowered.com
   - DOMAIN,content2.steampowered.com
   - DOMAIN,content3.steampowered.com
