@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,pcfg.misssu.win
   - DOMAIN,resume.misssu.cn
   - DOMAIN-SUFFIX,hmoe.link
   - PROCESS-NAME,ToDesk
