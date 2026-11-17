@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,polymarket.com
+  - DOMAIN-SUFFIX,polymarket.us
   - DOMAIN-SUFFIX,onlyfans.com
   - DOMAIN-SUFFIX,novaiapi.com
   - DOMAIN-SUFFIX,perplexity.ai
